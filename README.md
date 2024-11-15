@@ -27,7 +27,7 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the text “Implicitintent”.
-Developed by: PRAVEEN V
+Developed by: Praveen V
 Registeration Number : 212222040121
 ```
 
@@ -65,6 +65,13 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+
+
+
+
+
+
 ```
 ## activitymain.xml:
 ```
@@ -91,14 +98,19 @@ public class MainActivity extends AppCompatActivity {
         android:text="Navigate"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
+
+
+
+
+
+
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/62ab2a6c-401f-4041-81a4-28f85d0a3fd5)
+<img src="https://github.com/user-attachments/assets/62ab2a6c-401f-4041-81a4-28f85d0a3fd5" alt="image description" width="200">
+<img src="https://github.com/user-attachments/assets/f25e7a82-e12b-4f13-a3e2-f92730c0ce88" alt="image description" width="200">
+<img src="https://github.com/user-attachments/assets/ad3f0e7c-9dcc-49a8-b4be-af4dc391885f" alt="image description" width="200">
 
-![image](https://github.com/user-attachments/assets/d7dc4115-dd84-4d16-a3bf-2ac8d9887715)
-
-![image](https://github.com/user-attachments/assets/fbf7ac0e-684c-47cb-b571-86faa546e3da)
 
 
 
